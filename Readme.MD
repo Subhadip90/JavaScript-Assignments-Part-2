@@ -12,6 +12,6 @@
 
 ---
 
-⏲️ Honest time to finish this project ⏲️
+## ⏲️ Honest time to finish this project ⏲️
 
 - I took 8 hours to complete all the assignments, it was great fun to work on these assignments.
